@@ -14,6 +14,3 @@ Cenário: Criar Ciclo com usuario admin
 Dado que esteja na tela do ciclo
 Quando inserir as informações
 Então o sistema criará o ciclo
-
-#desenv
-#desenv 2
